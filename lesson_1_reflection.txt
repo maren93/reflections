@@ -1,0 +1,6 @@
+lesson_1_reflections
+
+1.) how did viewing a diff between two versions of a file help you spot the bug?
+- use command prompt mit Download>FC filename comparefilename to compare two files
+- shows lines that were changed
+- dont have to look manually
